@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "floppaware",
+  "version": "1.2",
+  "name": "floppaware",
+  "description": "Best Client 3",
+  "authors": [
+    "BubbyRoosh",
+    "Jrepxc",
+    "RoastyRon/KarioMart/Not Linus Torvalds"
+  ],
+  "contact": {
+    "homepage": "uhhh",
+    "sources": "no"
+  },
+  "license": "EVIL PROPRIETARY SURVEILLANCE DEVICE",
+  "icon": "assets/FloppaWare/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "floppaware.client.Floppa"
+    ]
+  },
+  "mixins": [
+    "floppawaremx.mixins.json"
+  ]
+}
